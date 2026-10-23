@@ -1,0 +1,10 @@
+.git
+.github
+.idea
+.vscode
+target
+build
+.gradle
+reports
+node_modules
+*.log
